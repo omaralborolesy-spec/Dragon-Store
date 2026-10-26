@@ -1,0 +1,15 @@
+{
+  "name": "Dragon Store",
+  "short_name": "Dragon",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#2b0609",
+  "theme_color": "#ff416c",
+  "icons": [
+    {
+      "src": "logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
